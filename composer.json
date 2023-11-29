@@ -1,0 +1,12 @@
+{
+    "name": "kkamara/php-autoloading",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "kkamara",
+            "email": "kamaracomputers@gmail.com"
+        }
+    ],
+    "require": {}
+}
