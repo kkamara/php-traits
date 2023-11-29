@@ -26,7 +26,8 @@
 
 ```bash
 php index.php
-> Student<br/>Person<br/>
+> Hello Trait
+> Jane Doe
 ```
 
 ## Misc
